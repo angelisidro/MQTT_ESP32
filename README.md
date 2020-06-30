@@ -5,3 +5,5 @@ Este repositorio contiene información acerca del uso del protocolo de comunicac
 
 # Requisitos 
 - Crear cuenta en Adafruit 'www.adafruit.com'
+- Contar con ESP32 en cualquiera de las versiones existentes.
+- Modulo BME280 
