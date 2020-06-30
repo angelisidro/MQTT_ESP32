@@ -7,3 +7,12 @@ Este repositorio contiene información acerca del uso del protocolo de comunicac
 - Crear cuenta en Adafruit 'www.adafruit.com'
 - Contar con ESP32 en cualquiera de las versiones existentes.
 - Modulo BME280 
+
+# Pines de protocolo I2C
+
+Sensor BME280 integrado en la tarjeta Smart Home.
+
+Nombre | GPIO PIN
+--- | ---
+SCL | GPIO22
+SDA | GPIO23
