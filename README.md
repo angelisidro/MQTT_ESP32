@@ -19,5 +19,6 @@ SDA | GPIO23
 
 # Dashboard 
 
-Esta es una vista previa del dashboard implementado en la plataforma de Adafruit IO 'https://io.adafruit.com/angelisidro/dashboards/temperatura'
+Esta es una vista previa del dashboard implementado en la plataforma de Adafruit IO 
+' https://io.adafruit.com/angelisidro/dashboards/temperatura '
 ![](/Img/Dashboard.png)
