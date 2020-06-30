@@ -25,6 +25,13 @@ Esta es una vista previa del dashboard implementado en la plataforma de Adafruit
 
 # Código Base
 
+El código completo se puede descargar en este link.
+
+
+- [El código completo se puede descargar en este link.][Codigo-Base]
+
+[Codigo-Base]: https://github.com/angelisidro/MQTT_ESP32/blob/master/ESP32_Temperatura_MQTT.ino
+
 ```cpp
 /***************************************************
   Ejemplo del uso de la libreria Adafruit MQTT con ESP32
